@@ -19,7 +19,7 @@ Arquivo para armezenameto dos estudos de fluxogramas, noçoes de html, css, java
 * [Diagramas](https://app.diagrams.net/)
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-* [https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
+* [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
 
 
 # Autor
