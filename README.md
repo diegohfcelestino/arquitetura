@@ -1,4 +1,6 @@
-# Arquitetura - Estudos de algoritimos, arquitetura, fluxogramas, etc
+# Arquitetura - Base de estudos
+
+Estudos de algoritimos, arquitetura, fluxogramas, etc
 
 
 =================
@@ -8,6 +10,9 @@
 # Sobre
 
 Arquivo para armezenameto dos estudos de fluxogramas, noçoes de html, css, javascript, teorias, etc.
+
+* Algoritimos
+* Testes de mesa
 
 # Tecnologias
 
