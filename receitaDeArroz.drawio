@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2022-02-03T14:06:26.541Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" version="16.5.3" etag="mIlvN17cu5nTV6TrbZBR" type="github"><diagram id="GcGkevGVTxQKkHpBdPdr">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-03T14:14:56.929Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="lTSyBGlqf7STu8lJtKNY" version="16.5.3" type="github">
+  <diagram id="GcGkevGVTxQKkHpBdPdr" name="Page-1">
+    <mxGraphModel dx="868" dy="1661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QNU78i6eHJZRfxuJGJoG-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QNU78i6eHJZRfxuJGJoG-1" target="QNU78i6eHJZRfxuJGJoG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QNU78i6eHJZRfxuJGJoG-1" value="Inicio" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="53" y="150" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QNU78i6eHJZRfxuJGJoG-2" value="Objetivo: Receita de arroz" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="130" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QNU78i6eHJZRfxuJGJoG-3" value="Fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="653" y="450" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QNU78i6eHJZRfxuJGJoG-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QNU78i6eHJZRfxuJGJoG-4" target="QNU78i6eHJZRfxuJGJoG-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QNU78i6eHJZRfxuJGJoG-4" value="Pegar Panela" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="50" y="240" width="106" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QNU78i6eHJZRfxuJGJoG-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QNU78i6eHJZRfxuJGJoG-5" target="QNU78i6eHJZRfxuJGJoG-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QNU78i6eHJZRfxuJGJoG-5" value="Refogar os temperos com azeite" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="251" y="340" width="106" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QNU78i6eHJZRfxuJGJoG-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QNU78i6eHJZRfxuJGJoG-6" target="QNU78i6eHJZRfxuJGJoG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QNU78i6eHJZRfxuJGJoG-6" value="Ligar panela" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="251" y="240" width="106" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QNU78i6eHJZRfxuJGJoG-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QNU78i6eHJZRfxuJGJoG-7" target="QNU78i6eHJZRfxuJGJoG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QNU78i6eHJZRfxuJGJoG-7" value="Pegar os ingredientes" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="50" y="340" width="106" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QNU78i6eHJZRfxuJGJoG-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QNU78i6eHJZRfxuJGJoG-8" target="QNU78i6eHJZRfxuJGJoG-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QNU78i6eHJZRfxuJGJoG-8" value="Misturar o refogado com arroz" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="450" y="240" width="106" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QNU78i6eHJZRfxuJGJoG-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QNU78i6eHJZRfxuJGJoG-9" target="QNU78i6eHJZRfxuJGJoG-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QNU78i6eHJZRfxuJGJoG-9" value="Adiconar agua e sal o suficiente" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="450" y="340" width="106" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QNU78i6eHJZRfxuJGJoG-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QNU78i6eHJZRfxuJGJoG-10" target="QNU78i6eHJZRfxuJGJoG-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QNU78i6eHJZRfxuJGJoG-10" value="Esperar agua secar" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="650" y="240" width="106" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QNU78i6eHJZRfxuJGJoG-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QNU78i6eHJZRfxuJGJoG-11" target="QNU78i6eHJZRfxuJGJoG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QNU78i6eHJZRfxuJGJoG-11" value="Desligar a panela" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="650" y="340" width="106" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
