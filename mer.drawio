@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-04T20:00:56.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="nFK908BgXb_VvhxQrPQi" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-04T20:08:17.054Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="Y9NoHH-AwX-apF5pX9Vh" version="16.5.3" type="github">
   <diagram id="IfD7oRMzPhSw_ENrBzub" name="Page-1">
     <mxGraphModel dx="1021" dy="1748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -110,12 +110,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="-1045" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="JHwBy-R3EQrGpB1JbKuy-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JHwBy-R3EQrGpB1JbKuy-50" target="JHwBy-R3EQrGpB1JbKuy-44">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JHwBy-R3EQrGpB1JbKuy-50" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;CPF&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-1055" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JHwBy-R3EQrGpB1JbKuy-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="JHwBy-R3EQrGpB1JbKuy-52" target="JHwBy-R3EQrGpB1JbKuy-44">
           <mxGeometry relative="1" as="geometry" />
@@ -324,22 +318,13 @@
         <mxCell id="JHwBy-R3EQrGpB1JbKuy-144" value="(1,1)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=10;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="632.5" y="-205" width="35" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JHwBy-R3EQrGpB1JbKuy-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="-1045" as="sourcePoint" />
-            <mxPoint x="220" y="-965" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JHwBy-R3EQrGpB1JbKuy-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" source="JHwBy-R3EQrGpB1JbKuy-147" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="195" y="-965" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JHwBy-R3EQrGpB1JbKuy-147" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;CPF&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-1055" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JHwBy-R3EQrGpB1JbKuy-148" value="Telefone" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="170" y="-1085" width="100" height="40" as="geometry" />
+          <mxGeometry x="60" y="-1045" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JHwBy-R3EQrGpB1JbKuy-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=10;endArrow=none;endFill=0;" edge="1" parent="1" source="JHwBy-R3EQrGpB1JbKuy-150" target="JHwBy-R3EQrGpB1JbKuy-56">
           <mxGeometry relative="1" as="geometry" />
